@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/aF-wyBDoI84AAAAd/one-piece.gif">
+<img width="800" height="100"src="https://c.tenor.com/aF-wyBDoI84AAAAd/one-piece.gif">
 
 <h1 align="center">Hi 👋, I'm Nayan Joshi</h1>
 <h3 align="center">IT student,Guitarist & Photographer</h3>
