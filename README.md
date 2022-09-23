@@ -1,8 +1,8 @@
-<img width="800" height="100"src="https://c.tenor.com/aF-wyBDoI84AAAAd/one-piece.gif">
+
 
 <h1 align="center">Hi 👋, I'm Nayan Joshi</h1>
 <h3 align="center">IT student,Guitarist & Photographer</h3>
-
+<img width="800" height="100" src="https://c.tenor.com/aF-wyBDoI84AAAAd/one-piece.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayanjoshi11" alt="nayanjoshi11" /></a> </p>
 
 - 🌱 I’m currently learning **php,C++,jscript**
